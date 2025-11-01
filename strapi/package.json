@@ -2,7 +2,9 @@
   "name": "strapi",
   "version": "0.1.0",
   "private": true,
-  "description": "A Strapi application",
+  "description": "Strapi CMS for AI Docu-Flow",
+  "license": "MIT",
+  "author": "AI Docu-Flow Contributors",
   "scripts": {
     "build": "strapi build",
     "console": "strapi console",

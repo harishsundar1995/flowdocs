@@ -1,6 +1,6 @@
-# Contributing to AI Docu-Flow
+# Contributing to FlowDocs
 
-Thank you for your interest in contributing to AI Docu-Flow! We welcome contributions from the community and are grateful for your support.
+Thank you for your interest in contributing to FlowDocs! We welcome contributions from the community and are grateful for your support.
 
 ## 🌟 How to Contribute
 
@@ -217,7 +217,7 @@ Feel free to:
 
 ## 🙏 Recognition
 
-All contributors will be recognized in our README and release notes. Thank you for making AI Docu-Flow better!
+All contributors will be recognized in our README and release notes. Thank you for making FlowDocs better!
 
 ---
 

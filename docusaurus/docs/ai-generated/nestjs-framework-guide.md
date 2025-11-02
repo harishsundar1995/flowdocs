@@ -5,7 +5,7 @@ author: "AI Generated"
 description: "Learn NestJS, the progressive TypeScript framework for building scalable Node.js server applications with modern architecture patterns."
 tags: []
 slug: "nestjs-framework-guide"
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # NestJS Framework Guide

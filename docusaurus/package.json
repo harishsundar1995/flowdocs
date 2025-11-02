@@ -2,9 +2,9 @@
   "name": "docusaurus",
   "version": "0.0.0",
   "private": true,
-  "description": "Documentation site for AI Docu-Flow",
+  "description": "Documentation site for FlowDocs",
   "license": "MIT",
-  "author": "AI Docu-Flow Contributors",
+  "author": "FlowDocs Contributors",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",

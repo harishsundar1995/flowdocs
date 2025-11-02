@@ -5,7 +5,7 @@ author: "AI Generated"
 description: "Learn how to build MCP servers that safely expose your data and tools to AI applications."
 tags: []
 slug: "mcp-server-development-guide"
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # MCP Server Development Guide

@@ -1,14 +1,14 @@
 {
   "name": "mcp-server",
   "version": "1.0.0",
-  "description": "Model Context Protocol server for AI Docu-Flow",
+  "description": "Model Context Protocol server for FlowDocs",
   "main": "src/server.js",
   "scripts": {
     "start": "node src/simple-server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["mcp", "strapi", "documentation", "ai", "llm"],
-  "author": "AI Docu-Flow Contributors",
+  "author": "FlowDocs Contributors",
   "license": "MIT",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.18.2",

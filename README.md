@@ -1,4 +1,6 @@
-# FlowDocs
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/harishsundar1995-flowdocs-badge.png)](https://mseep.ai/app/harishsundar1995-flowdocs)
+
+# FlowDocs: LLM-Powered Documentation System
 
 > **Transform natural language conversations into beautifully formatted documentation with AI-powered content management.**
 

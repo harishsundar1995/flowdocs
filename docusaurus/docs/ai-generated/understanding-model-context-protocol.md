@@ -5,7 +5,7 @@ author: "AI Generated"
 description: "An introduction to Model Context Protocol and how it enables AI applications to connect with data sources."
 tags: []
 slug: "understanding-model-context-protocol"
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Understanding Model Context Protocol

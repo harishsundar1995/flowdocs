@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-We release patches for security vulnerabilities. Currently, we support the following versions:
+We release patches for security vulnerabilities for FlowDocs. Currently, we support the following versions:
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -13,7 +13,7 @@ We release patches for security vulnerabilities. Currently, we support the follo
 
 We take the security of AI Docu-Flow seriously. If you believe you have found a security vulnerability, please report it to us as described below.
 
-**Please do not report security vulnerabilities through public GitHub issues.**
+We take the security of FlowDocs seriously. **Please do not report security vulnerabilities through public GitHub issues.**
 
 Instead, please report them via:
 
@@ -40,7 +40,7 @@ Please include the following information in your report:
 
 ## Security Best Practices
 
-When deploying AI Docu-Flow:
+When deploying FlowDocs:
 
 ### API Tokens
 - Never commit `.env` files to version control
@@ -107,4 +107,4 @@ We recommend:
 - Regular security assessments
 - Monitoring security advisories for dependencies
 
-Thank you for helping keep AI Docu-Flow and its users safe!
+Thank you for helping keep FlowDocs and its users safe!

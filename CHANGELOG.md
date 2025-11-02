@@ -19,7 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2025-11-02
 
 ### Added
-- Initial release of AI Docu-Flow
+- Initial release of FlowDocs
 - Complete documentation system with Strapi CMS backend
 - Model Context Protocol (MCP) server for Claude Desktop integration
 - Docusaurus-based documentation site with real-time sync

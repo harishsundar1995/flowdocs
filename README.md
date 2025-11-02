@@ -1,6 +1,6 @@
 [![MseeP.ai Security Assessment Badge](https://mseep.net/pr/harishsundar1995-flowdocs-badge.png)](https://mseep.ai/app/harishsundar1995-flowdocs)
 
-# AI Docu-Flow: LLM-Powered Documentation System
+# FlowDocs: LLM-Powered Documentation System
 
 > **Transform natural language conversations into beautifully formatted documentation with AI-powered content management.**
 
@@ -9,7 +9,7 @@
 [![Docusaurus](https://img.shields.io/badge/Docusaurus-3.9.1-brightgreen)](https://docusaurus.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-AI Docu-Flow is an innovative documentation system that bridges the gap between natural language conversations and professional documentation sites. Simply talk to an AI assistant (like Claude), and watch your ideas transform into structured, searchable documentation in real-time.
+FlowDocs is an innovative documentation system that bridges the gap between natural language conversations and professional documentation sites. Simply talk to an AI assistant (like Claude), and watch your ideas transform into structured, searchable documentation in real-time.
 
 ## ✨ Key Features
 

@@ -2,9 +2,9 @@
   "name": "strapi",
   "version": "0.1.0",
   "private": true,
-  "description": "Strapi CMS for AI Docu-Flow",
+  "description": "Strapi CMS for FlowDocs",
   "license": "MIT",
-  "author": "AI Docu-Flow Contributors",
+  "author": "FlowDocs Contributors",
   "scripts": {
     "build": "strapi build",
     "console": "strapi console",

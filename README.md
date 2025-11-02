@@ -1,5 +1,6 @@
 [![MseeP.ai Security Assessment Badge](https://mseep.net/pr/harishsundar1995-flowdocs-badge.png)](https://mseep.ai/app/harishsundar1995-flowdocs)
 
+
 # FlowDocs: LLM-Powered Documentation System
 
 > **Transform natural language conversations into beautifully formatted documentation with AI-powered content management.**
@@ -8,6 +9,7 @@
 [![Strapi](https://img.shields.io/badge/Strapi-5.24.2-blue)](https://strapi.io/)
 [![Docusaurus](https://img.shields.io/badge/Docusaurus-3.9.1-brightgreen)](https://docusaurus.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/6a33867d-d982-4344-a7ff-f0056521439c)
 
 FlowDocs is an innovative documentation system that bridges the gap between natural language conversations and professional documentation sites. Simply talk to an AI assistant (like Claude), and watch your ideas transform into structured, searchable documentation in real-time.
 
